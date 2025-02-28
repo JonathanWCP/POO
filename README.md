@@ -1,5 +1,5 @@
 # POO
-  - Construtor  <br/>
-  - Variáveis   <br/>
+  - Constructor  <br/>
+  - Variables   <br/>
   - JavaFX      <br/>
-  - Estruturas List, Set e Map <br/>
+  - List, Set and Map <br/>
